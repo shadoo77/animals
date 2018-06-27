@@ -1,6 +1,11 @@
 cat 
+
 dog 
-hamster
+
+hamster 
+
 bunny
-goldfish
+ 
+goldfish 
+
 bird
